@@ -1,2 +1,2 @@
-# Ecommerce
-Ecommerce
+# BookStore
+Java BookStore Project
